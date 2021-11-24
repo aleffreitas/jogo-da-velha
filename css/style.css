@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    text-align: center;
+}
+
+.square{
+    width: 100px;
+    height: 100px;
+    background: rgb(209, 150, 150);
+    border: 1px solid gray;
+    display: inline-block;
+}
